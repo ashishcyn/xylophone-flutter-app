@@ -2,4 +2,4 @@
 
 A simple music app
 
-<img src="xylophone.png" width="250">
+<img src="xylophone-output.png" width="250">
